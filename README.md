@@ -1,6 +1,7 @@
 ﻿>本工具是为上架ios马甲包而准备的, 请参考Unity C#代码级混淆方案   **[Unity游戏iOS马甲包处理方案](https://zhuanlan.zhihu.com/p/523090660)**
 
- 
+## 提示
+:warning::warning::warning: 这些代码仅提供思路，具体需要自己项目修改
 
 ## 1 GO代码执行环境
 
