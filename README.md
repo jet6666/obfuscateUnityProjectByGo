@@ -3,13 +3,13 @@
 ## 提示
 :warning::warning::warning: 这些代码仅提供思路，具体需要自己项目修改
 
-## 1 GO代码执行环境
+## 1. GO代码执行环境
 
 - go mod （go mod tidy)
 - 单个文件执行
  
 
-## 2 执行顺序
+## 2. 执行顺序
 - 请参考代码中注释选择路径
 -  csharp_add_spam.go ，将原cs代码加入垃圾代码，可不执行
 
